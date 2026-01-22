@@ -76,11 +76,6 @@ cp .env.example .env
 # Get your key from: https://console.groq.com/keys
 ```
 
-### 5. Add Your Data Files
-
-Place your CSV files in the `data/` folder:
-- `holdings.csv`
-- `trades.csv`
 
 ## 💻 Usage
 

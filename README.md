@@ -235,9 +235,6 @@ Format result: "99,810,636.00"
 - Try showing the generated code with `show_code=True`
 - Check if your query is clear and specific
 
-## 📄 License
-
-This project is provided as-is for educational purposes.
 
 ## 🤝 Contributing
 
